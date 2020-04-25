@@ -33,8 +33,8 @@ import zlib
 # --------------------------------- CONSTANTS ---------------------------------
 
 
-# REST API endpoint root
-_API_ROOT = "http://api.datacommons.org"
+# Staging REST API endpoint root
+_API_ROOT = "https://datacommons.endpoints.datcom-mixer-staging.cloud.goog"
 
 # REST API endpoint paths
 _API_ENDPOINTS = {
